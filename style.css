@@ -1,0 +1,48 @@
+body {
+    background-color: #22272f;
+    color: #cdcdcd;
+}
+
+h1 {
+    font-family: "Consolas", "Courier New", serif;
+    color: #81a1c1;
+}
+
+#editor {
+    height: 200px;
+}
+
+#console {
+    background-color:#22272F;
+    color: #cdcdcd;
+    font-family: "Consolas", "Courier New", serif;
+}
+
+.table {
+    color: #cdcdcd;
+    background-color:#22272F;
+}
+
+.btn-secondary {
+    color: #2e3440;
+    background-color: #81a1c1;
+    border-color: #81a1c1;
+}
+
+.btn-secondary:hover {
+    background-color: #2e3440;
+    border-color: #2e3440;
+}
+
+.btn-outline-secondary {
+    color: #81a1c1;
+    background-color: #22272f;
+    border-color: #81a1c1;
+}
+
+.btn-outline-secondary:hover {
+    color: #81a1c1;
+    background-color: #2e3440;
+    border-color: #81a1c1;
+}
+
